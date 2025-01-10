@@ -26,7 +26,7 @@ function Prodact_page({ data }) {
         </h2>
         <h2 className="hhh2">{oneUser[0].name} </h2>
         <div className="sterts">
-          <img src="/public/imgs/start.png" alt="" />
+          <img src="/imgs/start.png" alt="" />
           <h3>Read reviews (267)</h3>
         </div>
         <div className="prodact_df">

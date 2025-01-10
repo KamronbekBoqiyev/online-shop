@@ -12,7 +12,7 @@ function App() {
   const [data, setData] = useState([
     {
       id: 0,
-      img: "/public/imgs/data_img.png",
+      img: "/imgs/data_img.png",
       name: "green 2-Seater velvet sofa",
       type: "Comfort",
       price: "$299",
@@ -29,7 +29,7 @@ function App() {
     },
     {
       id: 1,
-      img: "/public/imgs/data2.png",
+      img: "/imgs/data2.png",
       name: "green 2-Seater velvet sofa",
       type: "Ancient",
       price: "$159",
@@ -46,7 +46,7 @@ function App() {
     },
     {
       id: 2,
-      img: "/public/imgs/data3.png",
+      img: "/imgs/data3.png",
       name: "green 2-Seater velvet sofa",
       type: "Special",
       price: "$499",
@@ -63,7 +63,7 @@ function App() {
     },
     {
       id: 3,
-      img: "/public/imgs/data4.png",
+      img: "/imgs/data4.png",
       name: "green 2-Seater velvet sofa",
       type: "Ancient",
       price: "$399",
@@ -80,7 +80,7 @@ function App() {
     },
     {
       id: 4,
-      img: "/public/imgs/data5.png",
+      img: "/imgs/data5.png",
       name: "green 2-Seater velvet sofa",
       type: "Sassy",
       price: "$199",
@@ -97,7 +97,7 @@ function App() {
     },
     {
       id: 5,
-      img: "/public/imgs/data6.png",
+      img: "/imgs/data6.png",
       name: "green 2-Seater velvet sofa",
       type: "Sunny",
       price: "$299",
@@ -114,7 +114,7 @@ function App() {
     },
     {
       id: 6,
-      img: "/public/imgs/data7.png",
+      img: "/imgs/data7.png",
       name: "green 2-Seater velvet sofa",
       type: "Comfort",
       price: "$499",
@@ -131,7 +131,7 @@ function App() {
     },
     {
       id: 7,
-      img: "/public/imgs/data8.png",
+      img: "/imgs/data8.png",
       name: "green 2-Seater velvet sofa",
       type: "Special",
       price: "$400",
@@ -149,7 +149,7 @@ function App() {
 
     {
       id: 8,
-      img: "/public/imgs/data9.png",
+      img: "/imgs/data9.png",
       name: "green 2-Seater velvet sofa",
       type: "classy",
       price: "$699",
@@ -166,7 +166,7 @@ function App() {
     },
     {
       id: 9,
-      img: "/public/imgs/data10.png",
+      img: "/imgs/data10.png",
       name: "green 2-Seater velvet sofa",
       type: "Ancient",
       price: "$299",
@@ -183,7 +183,7 @@ function App() {
     },
     {
       id: 10,
-      img: "/public/imgs/data11.png",
+      img: "/imgs/data11.png",
       name: "green 2-Seater velvet sofa",
       type: "Classy",
       price: "$150",
@@ -200,7 +200,7 @@ function App() {
     },
     {
       id: 11,
-      img: "/public/imgs/data12.png",
+      img: "/imgs/data12.png",
       name: "green 2-Seater velvet sofa",
       type: "Comfort",
       price: "$250",
@@ -218,7 +218,7 @@ function App() {
 
     {
       id: 12,
-      img: "/public/imgs/data13.png",
+      img: "/imgs/data13.png",
       name: "green 2-Seater velvet sofa",
       type: "Ancient",
       price: "$299",
@@ -235,7 +235,7 @@ function App() {
     },
     {
       id: 13,
-      img: "/public/imgs/data14.png",
+      img: "/imgs/data14.png",
       name: "green 2-Seater velvet sofa",
       type: "Comfort",
       price: "$359",
@@ -252,7 +252,7 @@ function App() {
     },
     {
       id: 14,
-      img: "/public/imgs/data15.png",
+      img: "/imgs/data15.png",
       name: "green 2-Seater velvet sofa",
       type: "Sassy",
       price: "$449",
@@ -269,7 +269,7 @@ function App() {
     },
     {
       id: 15,
-      img: "/public/imgs/data16.png",
+      img: "/imgs/data16.png",
       name: "green 2-Seater velvet sofa",
       type: "Comfort",
       price: "$399",
@@ -286,7 +286,7 @@ function App() {
     },
     {
       id: 16,
-      img: "/public/imgs/data17.png",
+      img: "/imgs/data17.png",
       name: "green 2-Seater velvet sofa",
       type: "Seater",
       price: "$199",
@@ -303,7 +303,7 @@ function App() {
     },
     {
       id: 17,
-      img: "/public/imgs/data18.png",
+      img: "/imgs/data18.png",
       name: "green 2-Seater velvet sofa",
       type: "Classy",
       price: "$269",
