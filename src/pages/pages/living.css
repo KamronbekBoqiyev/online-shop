@@ -1,0 +1,96 @@
+.living_prise {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+
+
+}
+
+.chek {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.chek input {
+    width: 30px;
+    height: 20px;
+}
+
+.living_info {
+    max-width: 400px;
+    padding: 0px   15px;
+    border-right: 2px solid black;
+}
+
+.home {
+    margin-bottom: 20px;
+    padding: 10px 0px;
+    color: gray;
+}
+
+.filter {
+    margin-bottom: 20px;
+    padding: 10px 0px;
+}
+.size{
+    margin-bottom: 40px;
+}
+.living_data{
+    display: flex;
+    gap: 10px;
+    padding: 20px 0px;
+}
+.livin_card{
+    padding: 5px;
+    height: 270px;
+    width: 200px;
+    background-color: rgba(128, 128, 128, 0.095);
+    margin-bottom: 20px;
+}
+.start {
+    width: 90px;
+    margin-bottom: 10px;
+}
+.livin_card .data_img{
+    width: 190px;
+}
+.prise{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 3px ;
+    margin-bottom: 10px;
+}
+.green{
+    color: gray;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+.livin_card hr{
+    margin-bottom: 10px;
+    margin: 0 auto;
+    width: 160px;
+}
+.livin_card .btn{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.btn button{
+    padding: 7px 25px;
+    border: none;
+    background-color: gray;
+    color: white;
+}
+.livin_cards{
+    max-width: 60%;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.livin_card a{
+    text-decoration: none;
+}

@@ -1,0 +1,21 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 0px;
+  
+  }
+  
+  nav {
+    background: #000000;
+  
+  }
+  .links {
+    display: flex;
+    gap: 30px;
+  }
+  
+  .links ul li a {
+    color: white;
+    text-decoration: none;
+  }
