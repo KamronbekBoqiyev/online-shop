@@ -16,7 +16,7 @@ function Home() {
               aliqua.
             </p>
             <button>SHOP NOW</button>
-            <img src="../public/imgs/Background.png" alt="" />
+            <img src="/imgs/Background.png" alt="" />
           </div>
         </div>
       </div>
@@ -26,22 +26,22 @@ function Home() {
         <h2>Get some Inspiration from our refreshing ideas</h2>
         <div className="cards">
           <div className="card">
-            <img src="../public/imgs/card1.png" alt="" />
+            <img src="/imgs/card1.png" alt="" />
             <h3>Sunny Days</h3>
             <a href="">Shop Now</a>
           </div>
           <div className="card">
-            <img src="../public/imgs/card2.png" alt="" />
+            <img src="/imgs/card2.png" alt="" />
             <h3>Comfy Bedcovers</h3>
             <a href="">Shop Now</a>
           </div>
           <div className="card">
-            <img src="../public/imgs/card3.png" alt="" />
+            <img src="/imgs/card3.png" alt="" />
             <h3>Statement pieces</h3>
             <a href="">Shop Now</a>
           </div>
           <div className="card">
-            <img src="../public/imgs/card4.png" alt="" />
+            <img src="/imgs/card4.png" alt="" />
             <h3>Spring Sofas</h3>
             <a href="">Shop Now</a>
           </div>
@@ -51,7 +51,7 @@ function Home() {
         <h2>Looking for What’s New in Store?</h2>
         <div className="boxs">
           <div className="box">
-            <img src="../public/imgs/box1.png" alt="" />
+            <img src="/imgs/box1.png" alt="" />
             <h3>Home for Designer Sectionals</h3>
             <p>
               Lorem ipsum dolor sit amet, consectetur <br /> adipiscing elit,
@@ -61,7 +61,7 @@ function Home() {
             <a href="">Take a look</a>
           </div>
           <div className="box">
-            <img src="../public/imgs/box2.png" alt="" />
+            <img src="/imgs/box2.png" alt="" />
             <h3>Home for Designer Sectionals</h3>
             <p>
               Lorem ipsum dolor sit amet, consectetur <br /> adipiscing elit,
@@ -71,7 +71,7 @@ function Home() {
             <a href="">Take a look</a>
           </div>
           <div className="box">
-            <img src="../public/imgs/box3.png" alt="" />
+            <img src="/imgs/box3.png" alt="" />
             <h3>Home for Designer Sectionals</h3>
             <p>
               Lorem ipsum dolor sit amet, consectetur <br /> adipiscing elit,
@@ -84,7 +84,7 @@ function Home() {
       </section>
       <section className="sec3 container">
         <div className="sec_df">
-          <img src="../public/imgs/sec3.png" alt="" />
+          <img src="/imgs/sec3.png" alt="" />
           <div className="info">
             <h2>Clearance Sale</h2>
             <h3>Upto 60% off</h3>

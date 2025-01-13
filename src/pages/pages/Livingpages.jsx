@@ -98,7 +98,7 @@ function Livingpages({ data }) {
                   <h3>{item.price}</h3>
                 </div>
                 <h3 className="green">green 2-Seater velvet sofa</h3>
-                <img className="start" src="/public/imgs/start.png" alt="" />
+                <img className="start" src="/imgs/start.png" alt="" />
                 <Link to={`/prodact/${item.id}`} className="btn">
                   <button>Choose options</button>
                 </Link>
