@@ -1,0 +1,11 @@
+.error_img img{
+    width: 900px;
+    height: 500px;
+}
+.error_img{
+    display: flex;
+    justify-content: center ;
+}
+.www{
+    background:linear-gradient(50deg,black,red,black);
+}

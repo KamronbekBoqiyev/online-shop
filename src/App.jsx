@@ -6,6 +6,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Livingpages from "./pages/pages/Livingpages";
 import { useState } from "react";
 import Prodact_page from "./pages/prodact/Prodact_page";
+import Error from "./pages/error/Error";
 
 function App() {
 
@@ -18,7 +19,7 @@ function App() {
       price: "$299",
        desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed odit natus dignissimos excepturi, quas suscipit quisquam corrupti ad sint iste officia. In consequatur quos culpa eum deserunt corrupti dolorum ex?",
       dime: " consectetur adipisicing elit. Sed odit natus dignissimos excepturi, quas suscipit quisquam corrupti ad sint iste officia. In consequatur quos culpa eum deserunt corrupti dolorum ex?",
-      deta: "tetur adipisicing elit. Sed odit natus dignissimos excepturi, quas suscipit quisquam corrupti ad sint iste",
+      deta: "tetur adipisicing elit. Sed odit natus dignissimos excepturi, quas suscipit quisquam corrupti ad sint iste  KAMRONBEK",
 
       imges: [
         "https://a.allegroimg.com/s1024/0c892a/11e0cfcd4a4c89d4a5b2c737eca2",
@@ -328,6 +329,7 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/livingrom" element={<Livingpages data={data} />} />
           <Route path="/prodact/:id" element={<Prodact_page data={data} />} />
+          <Route path="/*" element={<Error />} />
         </Routes>
         <Footer />
       </BrowserRouter>

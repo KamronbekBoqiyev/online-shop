@@ -21,7 +21,7 @@ function Footer() {
             <a href="">Kitchen & Dining</a>
           </li>
         </ul>
-        <img src="../public/imgs/logo.png" alt="" />
+        <img src="/imgs/logo.png" alt="" />
         <ul>
           <li>
             <a href="">About</a>
